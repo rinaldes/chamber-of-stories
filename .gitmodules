@@ -1,0 +1,6 @@
+[submodule "webapp"]
+	path = webapp
+	url = ./webapp/
+[submodule "webapi"]
+	path = webapi
+	url = ./webapi/
